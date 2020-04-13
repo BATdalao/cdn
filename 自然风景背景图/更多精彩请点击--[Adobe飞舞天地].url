@@ -1,0 +1,25 @@
+[DEFAULT]
+BASEURL=http://feiwui.taobao.com/
+[DOC#51]
+BASEURL=about:blank
+ORIGURL=about: blank
+[DOC#64]
+BASEURL=about:blank
+ORIGURL=about: blank
+[DOC#80]
+BASEURL=about:blank
+ORIGURL=about: blank
+[DOC#97]
+BASEURL=about:blank
+ORIGURL=about: blank
+[DOC#103]
+BASEURL=about:blank
+ORIGURL=about: blank
+[DOC#114]
+BASEURL=about:blank
+ORIGURL=about: blank
+[InternetShortcut]
+URL=http://feiwui.taobao.com/
+Modified=80A582F9E93BCD0192
+IconFile=http://www.taobao.com/favicon.ico
+IconIndex=1
